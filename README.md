@@ -1,10 +1,7 @@
-# ![cosmic red header](https://user-images.githubusercontent.com/55499698/226707692-470e21d3-b8ae-4815-9aac-67b43f13fb56.png)
+# ![cosmic red header](https://user-images.githubusercontent.com/55499698/226708658-136028fb-2272-4575-9c91-90ae34e23342.png)
 
-- 🎨 UX Engineer
-- 🔬 @GoogleDevExpert in Web Technologies
-- 🥑 Community Advocate @kikevis
-- 🧪 Fork my experiments on [Codepen](https://codepen.io/kikevis)
-- 📫 Reach me on [Twitter](https://twitter.com/kikevis)
-- 🪐 My resources on [Recursos Cosmicos](https://recursoscosmicos.com)
+- 🔬 Programmer Full Stack Jr - 🦸🏻‍♂️Unicosta collaborator in Web Technologies
+- 📫 Reach me on villasanchezg22@gmail.com [Email]
+- 🪐 My portfolio (https://kikevis.github.io/)
 
-<a href="https://kikevis.github.io/"><img src="" width="400" alt="Carmen Ansio's Dev Card"/></a>
+<a href="https://kikevis.github.io/"><img src="https://kikevis.github.io/assets/img/perfil.jpeg" width="300" alt="Geovanny Villa's Dev"/></a>
