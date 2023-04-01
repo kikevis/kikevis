@@ -2,7 +2,7 @@
   <a href="#"><img src="https://user-images.githubusercontent.com/91026290/199279083-9e86f1a4-8d87-41b9-b60c-798d520bb87b.gif"></a>  
 </div>
 
-<h1 align="center">Hi 👋, I'm Geovanny Villa</h1>
+<h1 align="center">Hi 👋, I'm Geovanny E. Villa Sánchez</h1>
 
 <div align="center">
 
