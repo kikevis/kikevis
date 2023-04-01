@@ -1,22 +1,11 @@
 <div align="center">
-  
- 
-<a href="#"><img src="https://user-images.githubusercontent.com/91026290/199279083-9e86f1a4-8d87-41b9-b60c-798d520bb87b.gif"></a>
-
-  
+  <a href="#"><img src="https://user-images.githubusercontent.com/91026290/199279083-9e86f1a4-8d87-41b9-b60c-798d520bb87b.gif"></a>  
 </div>
-
 
 <h1 align="center">Hi 👋, I'm Joseph</h1>
 
 <div align="center">
-
 ![React.js](https://img.shields.io/badge/react.js-%230073CF.svg?style=for-the-badge&logo=React&logoColor=blue&color=white)
-![Next.js](https://img.shields.io/badge/next.js-%230073CF.svg?style=for-the-badge&logo=Next.js&logoColor=white&color=000000)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%230073CF.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white&color=06B6D4)
-![ChakraUI](https://img.shields.io/badge/CHAKRAUI-%230073CF.svg?style=for-the-badge&logo=CHAKRAUI&logoColor=white&color=blue)
-![Node.js](https://img.shields.io/badge/node.js-%230073CF.svg?style=for-the-badge&logo=Node.js&logoColor=white&color=339933)
-
 </div>
 
 <h2>Glad to see you here!</h2>
