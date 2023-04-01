@@ -16,23 +16,23 @@
 
 <h2>Glad to see you here!</h2>
 
-- 🔭 I'm currently doing personal projects
+<!-- - 🔭 I'm currently doing personal projects -->
 
-- 🌱 I am currently learning Socket
+- 🌱 I am currently learning JavaScript and Python
 
-- 👯 I'm looking to collaborate on FrontEnd WebApps and UX Design Process
+- 👯 I'm looking to collaborate on FrontEnd 
 
-- 🤝 Looking for help with my Blog 🤙
+<!-- - 🤝 Looking for help with my Blog 🤙 -->
 
 - 👨‍💻 All my projects are available at https://kikevis.github.io/
 
 - 📝 Regularly carried out personal projects to improve my skills
 
-- 💬 Ask me about YOU
+<!-- - 💬 Ask me about YOU -->
 
 - 📫 How to contact me villasanchezg22@gmail.com
 
-- ⚡ Fun fact vim user without linux env 😅
+<!-- - ⚡ Fun fact vim user without linux env 😅 -->
 
 <div>
   <div>
