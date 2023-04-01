@@ -54,5 +54,8 @@
 </div>
  
 <div> 
-  <a href="https://github.com/kikevis?tab=repositories"><img src="https://raw.githubusercontent.com/kikevis/josephvtx/output/github-contribution-grid-snake-dark.svg"></a>
+  <a href="https://github.com/kikevis?tab=repositories"><img src="https://raw.githubusercontent.com/kikevis/kikevis/output/github-contribution-grid-snake-dark.svg"></a>
+  <a href="https://github.com/JosephVTX?tab=repositories"><img src="https://raw.githubusercontent.com/JosephVTX/josephvtx/output/github-contribution-grid-snake-dark.svg"></a>
 </div>
+
+  
