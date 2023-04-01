@@ -13,8 +13,6 @@
 
 ![React.js](https://img.shields.io/badge/react.js-%230073CF.svg?style=for-the-badge&logo=React&logoColor=blue&color=white)
 ![Next.js](https://img.shields.io/badge/next.js-%230073CF.svg?style=for-the-badge&logo=Next.js&logoColor=white&color=000000)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%230073CF.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white&color=06B6D4)
-![ChakraUI](https://img.shields.io/badge/CHAKRAUI-%230073CF.svg?style=for-the-badge&logo=CHAKRAUI&logoColor=white&color=blue)
 ![Node.js](https://img.shields.io/badge/node.js-%230073CF.svg?style=for-the-badge&logo=Node.js&logoColor=white&color=339933)
 
 </div>
@@ -41,9 +39,8 @@
  <div>
    
  <div>
-   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephvtx&layout=compact&theme=tokyonight&count_private=true"> <br>
-   <img height="200" src="https://github-readme-stats.vercel.app/api?username=josephvtx&theme=tokyonight&show_icons=true&count_private=true">
-   
+   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikevis&layout=compact&theme=tokyonight&count_private=true"> <br>
+   <img height="200" src="https://github-readme-stats.vercel.app/api?username=kikevis&theme=tokyonight&show_icons=true&count_private=true">
  </div>
    
 </div>
@@ -57,15 +54,9 @@
  <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/nodejs-icon.svg">
  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
  <img align="center" alt="Git" height="30" width="40" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667">
- <img align="center" alt="Wordpress" height="40" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/icons8-wordpress.svg">
-  
+ <img align="center" alt="Wordpress" height="40" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/icons8-wordpress.svg"> 
 </div>
  
-
-
 <div> 
- 
-
   <a href="https://github.com/kikevis?tab=repositories"><img src="https://raw.githubusercontent.com/JosephVTX/josephvtx/output/github-contribution-grid-snake-dark.svg"></a>
-
 </div>
