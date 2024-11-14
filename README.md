@@ -20,7 +20,7 @@
 
 - 🌱 I am currently learning JavaScript and Python
 
-- 👯 I'm looking to collaborate on FrontEnd 
+<!-- - 👯 I'm looking to collaborate on FrontEnd -->
 
 <!-- - 🤝 Looking for help with my Blog 🤙 -->
 
