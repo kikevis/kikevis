@@ -60,12 +60,12 @@ Soy un desarrollador versátil con pasión por crear soluciones digitales comple
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kikevis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikevis&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="languages graph" />
-</div>
+</div> -->
 
-<br/>
+<!-- <br/> -->
 
 <div align="center">
     <a href="https://github.com/kikevis?tab=repositories">
