@@ -3,10 +3,9 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Geovanny E. Villa S.</h1>
-<h3 align="center">Full Stack Developer & Mobile App Enthusiast</h3>
+<h3 align="center">Full Stack Web & Mobile Developer | SEO/SEM Specialist</h3>
 
 <div align="center">
-
   <a href="mailto:villasanchezg22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -19,13 +18,14 @@
 
 ## 🚀 About Me
 
-¡Hola! Soy un desarrollador apasionado por la tecnología y la innovación constante.
+Soy un desarrollador versátil con pasión por crear soluciones digitales completas, desde el código hasta la estrategia de posicionamiento.
 
-- 🎓 Cuento con un **Diplomado en Ciberseguridad**.
-- 📱 Actualmente estoy desarrollando aplicaciones móviles con **Flutter** y próximamente aprendiendo **Kotlin**.
-- 🤖 Profundizando mis conocimientos en **Inteligencia Artificial** y nuevas tecnologías.
-- 👨‍💻 Todos mis proyectos están disponibles en [kikevis.github.io](https://kikevis.github.io/)
-- 📝 Realizo proyectos personales constantemente para mejorar mis habilidades.
+- 💻 **Desarrollo Web & CMS:** Creo páginas web desde cero y tengo experiencia absoluta en gestión de **CMS**. Si existe, lo domino; y si es nuevo, lo aprendo e implemento al instante.
+- 📈 **Marketing Digital:** Cuento con sólidos conocimientos en **SEO, SEM y Analítica Web** para asegurar que los proyectos no solo funcionen, sino que también posicionen.
+- 🎓 Poseo un **Diplomado en Ciberseguridad**, garantizando buenas prácticas en mis desarrollos.
+- 📱 Desarrollando aplicaciones móviles multiplataforma con **Flutter** y expandiendo a **Kotlin**.
+- 🤖 Integrando **Inteligencia Artificial** en flujos de trabajo y desarrollo.
+- 👨‍💻 Mis proyectos: [kikevis.github.io](https://kikevis.github.io/)
 
 ---
 
@@ -40,15 +40,18 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
-### Frameworks & Libraries
+### Frameworks & Mobile
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 
-### Tools & Others
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+### Analytics, SEO & CMS
+<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics" />
+<img src="https://img.shields.io/badge/SEO-8BC34A?style=for-the-badge&logo=google-search-console&logoColor=white" alt="SEO" />
 <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
+### Tools & Version Control
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 </div>
 
