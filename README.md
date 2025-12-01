@@ -50,6 +50,7 @@ Soy un desarrollador versátil con pasión por crear soluciones digitales comple
 <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics" />
 <img src="https://img.shields.io/badge/SEO-8BC34A?style=for-the-badge&logo=google-search-console&logoColor=white" alt="SEO" />
 <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
+
 ### Tools & Version Control
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
@@ -67,5 +68,7 @@ Soy un desarrollador versátil con pasión por crear soluciones digitales comple
 <br/>
 
 <div align="center">
-  <img src="https://github.com/kikevis/kikevis/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+    <a href="https://github.com/kikevis?tab=repositories">
+        <img src="https://raw.githubusercontent.com/kikevis/kikevis/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+    </a>
 </div>
