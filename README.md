@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner propio (negro + dorado). Si aún no lo tienes, borra esta línea y el README se ve bien igual. -->
-<img src="https://raw.githubusercontent.com/kikevis/kikevis/main/assets/banner.png" width="100%" alt="Geovanny E. Villa Sánchez — Full Stack Developer & Cybersecurity" />
+<img src="https://raw.githubusercontent.com/kikevis/kikevis/main/banner.png" width="100%" alt="Geovanny E. Villa Sánchez — Full Stack Developer & Cybersecurity" />
 
 # Geovanny E. Villa Sánchez
 
@@ -62,31 +62,44 @@ Soy desarrollador full stack: entrego soluciones digitales completas — no solo
 
 ---
 
-## 🚀 Featured work
+## 🚀 Personal projects
+
+> 🔒 **What you see here is my personal work.** The bulk of my professional experience is client software built through **TPrime**, and those systems stay private for security and confidentiality reasons — corporate infrastructure, internal tooling and client data aren't things you publish on GitHub. I'm glad to walk through that work, its architecture and my role in it, in a conversation.
+>
+> 🔒 **Lo que ves aquí es mi trabajo personal.** El grueso de mi experiencia profesional es software para clientes desarrollado a través de **TPrime**, y esos sistemas se mantienen privados por seguridad y confidencialidad — infraestructura corporativa, herramientas internas y datos de clientes no son cosas que se publiquen en GitHub. Con gusto explico ese trabajo, su arquitectura y mi rol en él en una conversación.
 
 | Project | What it is | Stack |
 |---|---|---|
 | **[TPrime](https://www.tprime.com.co/)** | Company site for my IT & cybersecurity consultancy. One-page landing with 3D motion. | React · TS · Vite · Tailwind · Framer Motion |
 | **[Portfolio](https://kikevis.github.io/)** | My personal portfolio — 3 switchable themes and 3D animations. | React · TS · Vite · Tailwind |
-| **Kill Alert App** | Full-stack alerting app, desktop + mobile client with containerized API. | Flutter · Node/Express · Docker · PostgreSQL |
+| **Church App** | Full-stack alerting app, desktop + mobile client with containerized API. | Flutter · Node/Express · Docker · PostgreSQL |
 | **Calculadora de Liquidaciones** | Colombian severance-pay calculator for employees and employers (2026 rules). | React · TS |
 
 <sub>➡️ More at **[kikevis.github.io](https://kikevis.github.io/)** · escríbeme a **villasanchezg22@gmail.com**</sub>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Activity
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kikevis&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=C9A227&icon_color=C9A227&text_color=C9D1D9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikevis&layout=compact&hide_border=true&count_private=true&langs_count=8&bg_color=0D1117&title_color=C9A227&text_color=C9D1D9" alt="Top languages" />
-
-<br/><br/>
 
 <img src="https://raw.githubusercontent.com/kikevis/kikevis/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 
 </div>
+
+<!--
+  Tarjetas de stats: desactivadas a propósito.
+  github-readme-stats.vercel.app está devolviendo 503 (instancia pública sobre cuota).
+  Para activarlas hay que desplegar una instancia propia — ver PLAN, sección "Imágenes rotas".
+-->
+
+---
+
+## 🎓 Background
+
+- **Systems Engineering** — coursework completed, degree in process (2026)
+- **Postgraduate diploma in Cybersecurity** — secure development, hardening, best practices
+- **Founder of TPrime** (Barranquilla, Colombia) — IT consulting, corporate cybersecurity and Microsoft 365 cloud
 
 ---
 
